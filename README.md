@@ -118,5 +118,8 @@
     <a href="https://auth.geeksforgeeks.org/user/riyanshverma01" target="_blank">
       <img src="https://img.shields.io/badge/geeksforgeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" style="margin-right:10px;"/>
     </a>
+    <a href="https://www.snapchat.com/add/riyansh_verma01" target="_blank">
+      <img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" style="margin-right:10px;"/>
+    </a>
   </p>
 </div>
