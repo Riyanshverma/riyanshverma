@@ -91,8 +91,11 @@
     Connect with Me
   </h1>
   <p>
-  <a href="https://peerlist.io/riyanshverma" target="_blank">
+    <a href="https://peerlist.io/riyanshverma" target="_blank">
       <img src="https://img.shields.io/badge/peerlist-1a202c.svg?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" style="margin-right:10px;"/>
+    </a>
+    <a href="https://www.naukri.com/code360/profile/riyanshverma01" target="_blank">
+      <img src="https://img.shields.io/badge/codingninjas-ff5722.svg?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" style="margin-right:10px;"/>
     </a>
     <a href="https://instagram.com/___riyansh___0106" target="_blank">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right:10px;"/>
